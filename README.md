@@ -1,3 +1,15 @@
+# Netflix Data
+
+The folder Netflix_Notebook contains the final products (jupyter notebooks, presentation and dataset). 
+
+[Jupyter notebook on Movies](Netflix_Notebook/Netflix_Movies_Data.ipynb)
+[Jupyter notebook on TV Shows](Netflix_Notebook/Netflix_TVShows_Data.ipynb)
+[Presentation](Netflix_Notebook/NetflixData.TeamProject.key)
+[Dataset](Netflix_Notebook/netflix_titles.csv)
+
+
+_____________________________________________________________________________________________________________________________
+
 # Guidelines for Project 1
 
 This document contains guidelines, requirements, and suggestions for Project 1.
